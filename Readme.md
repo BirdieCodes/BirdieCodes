@@ -2,7 +2,7 @@
 I am a developer and I have been programming for 7 years
 
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Birdie#4664) 
 
 # 💻 Languages:

@@ -13,5 +13,3 @@ I am a developer and I have been programming for 7 years
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BirdieCodes&icon=2&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

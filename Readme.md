@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a developer and I have been programming for 7 years
+I am a developer. I have been programming for 7 years
 
 
 ## 🌐 Contact:
